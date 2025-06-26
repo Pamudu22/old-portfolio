@@ -1,1 +1,1 @@
-ttps://pamudu22.github.io/old-portfolio/
+https://pamudu22.github.io/old-portfolio/
